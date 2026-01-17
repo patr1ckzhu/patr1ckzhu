@@ -56,10 +56,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patr1ckzhu&layout=compact&hide=html,css&theme=default)
-
----
-
 <!-- Optional: Connect with me -->
 <!--
 📫 Reach me at: [your_email@example.com]  
